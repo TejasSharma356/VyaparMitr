@@ -46,13 +46,13 @@ VyaparMitr simplifies this by providing:
 - **Simplified Return Filing**  
   Converts complex government forms into easy step‑by‑step questions.
 
-- **Revenue Input (Manual / Upload)**  
+- **Revenue and Finance Input (Manual / Upload)**  
   Collects revenue data once for reuse across flows.
 
 - **Auto Pre‑Fill (Mock Automation)**  
   Reduces repetitive data entry and errors.
 
-- **Deadline Tracking & Risk Alerts**  
+- **Deadline and Finance Tracking & Risk Alerts**  
   Helps users avoid late filings and penalties.
 
 - **Context‑Aware Chatbot Guidance**  
